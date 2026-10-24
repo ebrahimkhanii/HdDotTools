@@ -1,0 +1,141 @@
+# AltSafe HdDotTools Proprietary Software License
+
+**Copyright © 2026 Mohammad Reza Ebrahim Khani. All rights reserved.**
+
+This license governs the use, copying, modification, distribution, and other handling of HdDotTools, including its source code, executable files, scripts, payload-generation components, documentation, and associated materials (collectively, the “Software”), except for third-party components governed by separate licenses.
+
+By downloading, installing, or using the Software, you acknowledge that you have read and understood this license and agree to comply with its applicable terms.
+
+## 1. Ownership and Intellectual Property
+
+All rights, title, and interest in the Software remain with Mohammad Reza Ebrahim Khani, except for third-party components governed by separate licenses.
+
+Nothing in this license transfers ownership of the Software or grants ownership rights to the user.
+
+The names “AltSafe” and “HdDotTools,” their associated logos, and other branding elements may be protected independently by applicable intellectual property laws.
+
+## 2. Limited Permission to Use
+
+Subject to compliance with this license, Mohammad Reza Ebrahim Khani grants the user a limited, personal, non-exclusive, non-transferable, and revocable permission to download, install, and execute an unmodified copy of HdDotTools solely for lawful purposes, including authorized security testing, educational activities, and learning about computer networks and security.
+
+This permission does not grant any right to publish, redistribute, sublicense, sell, or commercially exploit the Software.
+
+No rights are granted except those expressly stated in this license or those that cannot lawfully be excluded.
+
+## 3. Prohibition on Unauthorized Copying and Redistribution
+
+Except where expressly authorized in writing by the copyright holder or required by applicable law, the user must not:
+
+1. Copy, reproduce, or redistribute the Software or any substantial part of its source code.
+2. Republish, mirror, upload, or distribute the Software through another repository, website, platform, or distribution channel.
+3. Modify, adapt, translate, or create derivative works based on the Software.
+4. Incorporate the Software or its source code into another product, application, project, or commercial service.
+5. Sell, rent, sublicense, lease, or otherwise commercially distribute the Software.
+6. Remove, conceal, or alter copyright notices, authorship information, or proprietary notices.
+7. Present the Software, or substantial portions of its code, as their own original work.
+
+Downloading or executing the Software under the limited permission in Section 2 does not grant permission to perform any of the activities prohibited by this section.
+
+Nothing in this section restricts rights that applicable law expressly permits or that cannot legally be waived.
+
+## 4. Public Repository and Source-Code Access
+
+The public availability of HdDotTools on GitHub is intended to permit people to discover and inspect the project.
+
+Public visibility does not, by itself, grant a general license to modify, redistribute, republish, or commercially exploit the Software.
+
+Users must respect the applicable GitHub terms, the rights of the copyright holder, and this license to the extent legally enforceable.
+
+The ability to view or technically fork a public repository does not necessarily confer permission to use its contents for every purpose.
+
+## 5. Authorized and Ethical Use
+
+HdDotTools is a security-testing and educational tool. Its features may enable remote command-line access to a computer after a generated payload is executed.
+
+The user is solely responsible for ensuring that every use of the Software is lawful and properly authorized.
+
+The user must not use HdDotTools to:
+
+1. Access any computer, network, account, or information system without valid authorization.
+2. Create, deploy, or execute payloads against devices belonging to other people or organizations without their permission.
+3. Obtain, alter, delete, disclose, or transmit data without authorization.
+4. Conduct unauthorized surveillance, compromise accounts, disrupt services, or interfere with computer systems.
+5. Deploy the Software in a manner that violates applicable laws, regulations, contractual obligations, or the rights of others.
+
+Testing should be conducted only on systems owned by the user or systems for which the user has obtained appropriate authorization.
+
+The user is responsible for obtaining and retaining any necessary permissions before conducting a test.
+
+## 6. User Responsibility
+
+The user is responsible for their own actions and for the manner in which the Software is configured, executed, and used.
+
+Mohammad Reza Ebrahim Khani and AltSafe do not authorize illegal or unauthorized activities merely by publishing or distributing HdDotTools.
+
+The availability of the Software does not constitute legal advice, authorization to access a third-party system, or permission to bypass security controls.
+
+Users should assess the risks of executing payloads and conducting remote-access testing before proceeding.
+
+## 7. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Software is provided “AS IS” and “AS AVAILABLE,” without warranties of any kind, whether express, implied, or statutory.
+
+Mohammad Reza Ebrahim Khani and AltSafe do not warrant that the Software will be error-free, uninterrupted, secure, compatible with every system, or suitable for a particular purpose.
+
+The user assumes responsibility for evaluating the Software before use and for maintaining appropriate backups and security controls.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Mohammad Reza Ebrahim Khani and AltSafe shall not be liable for indirect, incidental, special, exemplary, or consequential damages arising from the use of, inability to use, or misuse of the Software.
+
+To the extent permitted by applicable law, they do not accept responsibility for unauthorized activities independently undertaken by users, including unlawful access, damage to systems, loss of data, or violations of third-party rights.
+
+Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by law, including liability that cannot legally be waived.
+
+## 9. Third-Party Components
+
+Any third-party libraries, dependencies, tools, or other materials included in or used by HdDotTools remain subject to their respective licenses and legal requirements.
+
+This license does not override third-party rights or grant permissions that the copyright holder does not own or have authority to grant.
+
+Where a third-party license conflicts with a provision of this license, the applicable third-party license governs the relevant component to the extent required by law.
+
+## 10. Termination
+
+Permission granted under this license may terminate if the user materially violates its terms, subject to applicable law and any legally required notice or opportunity to remedy the violation.
+
+Upon termination, the user must cease activities for which permission has ended, except to the extent that continued possession or use is permitted or required by applicable law.
+
+Termination does not remove rights or remedies that accrued before termination.
+
+## 11. Amendments and Future Releases
+
+The copyright holder may publish revised versions of this license for future releases of HdDotTools.
+
+Unless expressly stated otherwise and legally effective, a revised license does not automatically replace the terms applicable to a previously obtained version.
+
+## 12. Applicable Law and Severability
+
+This license is subject to applicable laws and mandatory legal requirements.
+
+If a provision is held unenforceable, the remaining provisions shall remain effective to the extent permitted by law.
+
+Nothing in this license removes rights or remedies that cannot legally be excluded.
+
+## 13. Permissions and Contact
+
+Requests for written permission to copy, modify, redistribute, or otherwise use HdDotTools beyond the scope of this license should be directed to the copyright holder through the project's official contact channels.
+
+**Developer:** Mohammad Reza Ebrahim Khani
+
+**Website:** https://altsafe.net/
+
+**Repository:** https://github.com/ebrahimkhanii/HdDotTools
+
+## 14. Reservation of Rights
+
+All rights not expressly granted under this license are reserved by the copyright holder.
+
+**HdDotTools is proprietary software and is not released under the MIT License, Apache License, GNU General Public License, or another open-source license unless a specific release expressly states otherwise.**
+
+Copyright © 2026 Mohammad Reza Ebrahim Khani. All rights reserved.
