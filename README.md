@@ -1,4 +1,24 @@
 # HdDotTools
+<br>
+<br>
+<br>
+
+
+## License
+
+HdDotTools is proprietary software developed by AltSafe.
+
+All rights reserved. Use is permitted only under the terms
+of the [HdDotTools Proprietary Software License](./LICENSE).
+
+Unauthorized copying, modification, or redistribution is prohibited,
+except where expressly permitted by the applicable license or law.
+
+Copyright © 2026 AltSafe.
+<br>
+<br>
+<br>
+
 نرم افزار تست نفوذ و دسترسی reverse tcp به shell 
 <br>
 <br>
