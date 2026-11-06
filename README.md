@@ -19,17 +19,22 @@ Copyright © 2026 AltSafe.
 <br>
 <br>
 
-نرم افزار تست نفوذ و دسترسی reverse tcp به shell 
+
+
+<br>
+
+HdDotTools Professional Software 
+For Network Security Professionals and Pentesters
 <br>
 <br>
-دستور help در خط فرمان برای دیدن جزئیات برنامه
+
+Currently being rewritten.
 <br>
 <br>
-دستور su برای ساخت پی لود
+
+Preparing for competitions
+Approximate release date: Between the first and second week of December
 <br>
 <br>
-دستور startserver برای رفتن روی مود listening
-<br>
-<br>
-<br>
-قابل اجرا روی سیستم عامل های: ویندوز - لینوکس دبین بیس - مک اوس تا ورژن 15 
+
+https://altsafe.net/a/
